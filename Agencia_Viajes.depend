@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1474030851 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\main.cpp
+	<iostream>
+	<AgenciaViajes.h>
+
+1474068309 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\src\agenciaviajes.cpp
+	"AgenciaViajes.h"
+
+1474037541 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\include\agenciaviajes.h
+	"ListaString.h"
+	"Viajes.h"
+	<fstream>
+	<fstream>
+	<iostream>
+	<string>
+
+1474063239 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\src\listastring.cpp
+	"ListaString.h"
+	"AgenciaViajes.h"
+	<iostream>
+
+1474068309 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\include\listastring.h
+	<string>
+
+1474063558 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\src\viajes.cpp
+	"Viajes.h"
+
+1474068309 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\include\viajes.h
+	<iostream>
+	"ListaString.h"
+
+1474057637 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\src\hoteles.cpp
+	"Hoteles.h"
+
+1474058667 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\include\hoteles.h
+	<string>
+
