@@ -1,9 +1,7 @@
 #ifndef AGENCIAVIAJES_H
 #define AGENCIAVIAJES_H
-
-#include "ListaString.h"
-#include "Viajes.h"
-#include <fstream>
+#include "NodoViaje.h"
+//#include "ListaString.h"
 
 #include <fstream>
     using std::fstream;
@@ -17,17 +15,26 @@
     using std::string;
 
 
+
+class NodoViaje;
+typedef NodoViaje *pnodoViaje;
+
 class AgenciaViajes
 {
     public:
         AgenciaViajes();
         virtual ~AgenciaViajes();
         void lecturaArchivos(string archivo);
-        void leerLinea(string frase, string archivo);
-
-    protected:
-
-    private:
+        void crearViaje(string, string, string, string , string , string , string);
+        bool listaViajesVacia();
+        //es propio de la lista
+        pnodoViaje primerViaje;
 };
+
+
+
+
+
+
 
 #endif // AGENCIAVIAJES_H

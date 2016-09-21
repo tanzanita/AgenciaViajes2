@@ -35,18 +35,14 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/AgenciaViajes.h" />
-		<Unit filename="include/EstructuraNodo.h" />
 		<Unit filename="include/Hoteles.h" />
 		<Unit filename="include/ListaString.h" />
 		<Unit filename="include/NodoViaje.h" />
-		<Unit filename="include/Viajes.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/AgenciaViajes.cpp" />
-		<Unit filename="src/EstructuraNodo.cpp" />
 		<Unit filename="src/Hoteles.cpp" />
 		<Unit filename="src/ListaString.cpp" />
 		<Unit filename="src/NodoViaje.cpp" />
-		<Unit filename="src/Viajes.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

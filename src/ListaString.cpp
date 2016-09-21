@@ -29,10 +29,6 @@ lista::~lista()
    actual = NULL;
 }
 
-
-
-
-
 void lista::InsertarFinal(string v)
 {
    if (ListaVacia())
@@ -44,9 +40,6 @@ void lista::InsertarFinal(string v)
         aux->siguiente=new nodo(v);
       }
 }
-
-
-
 
 void lista::BorrarFinal()
 {
@@ -90,11 +83,6 @@ void lista::BorrarInicio()
         }
 }
 
-
-
-
-
-
 void lista::Mostrar()
 {
    nodo *aux;
@@ -106,7 +94,6 @@ void lista::Mostrar()
    }
    cout << endl;
 }
-
 
 void lista::Siguiente()
 {
@@ -133,7 +120,7 @@ string lista::Ultimo()
 }
 
 //Metodo para cargar los atributos
-string lista:: pasarAtributo(){
+/*string lista:: pasarAtributo(){
     string elemento;
     elemento = primero -> valor;
     if(primero -> siguiente != NULL)
@@ -141,3 +128,5 @@ string lista:: pasarAtributo(){
 
     return elemento;
 }
+*/
+

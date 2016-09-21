@@ -1,19 +1,28 @@
 #include "NodoViaje.h"
 
-NodoViaje::NodoViaje(Viajes *pviaje)
+
+NodoViaje::NodoViaje()
 {
-    pviaje->idViaje;
-    viaje = pviaje  ;//cuando creo el nodo le asign la referencia del viaje que tengo a este nodo,es para guardar el nodo
-    //ctor
+
+
 }
 
-NodoViaje::~NodoViaje()
+NodoViaje::NodoViaje(string ideV , string origenViaje , string destinoViaje , string fechaSalidaViaje, string fechaLegadaViaje , string precioViaje , string numPlazasViaje)
 {
-    //dtor
+        idViaje = ideV;
+		origen = origenViaje;
+        destino = destinoViaje;
+		fechaSalida = fechaSalidaViaje;
+		fechaLegada = fechaLegadaViaje;
+		precio = precioViaje;
+		numPlazas = numPlazasViaje;
+
 }
+typedef NodoViaje *pnodoViaje;
 
 
-void siguiente_NodoViaje(){
 
 
-}
+
+
+

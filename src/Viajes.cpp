@@ -3,7 +3,7 @@
 
 Viajes::Viajes(lista *listaAtributo)
 {
-    idViaje = listaAtributo->pasarAtributo();
+    /*idViaje = listaAtributo->pasarAtributo();
     cout<<"idViaje:"<<idViaje<<endl;
 
     origen = listaAtributo->pasarAtributo();
@@ -21,15 +21,16 @@ Viajes::Viajes(lista *listaAtributo)
     precio = listaAtributo->pasarAtributo();
     cout<<"Preio"<<precio<<endl;
 
+
+
     numPlazas = listaAtributo->pasarAtributo();
     cout<<"NumPlazas:"<<numPlazas<<endl;
 
+ cout <<" ";
+ */
 }
 
-Viajes::~Viajes()
-{
-    //dtor
-}
+
 
 
 

@@ -1,23 +1,34 @@
 #ifndef NODOVIAJE_H
 #define NODOVIAJE_H
+#include "AgenciaViajes.h"
 
-#include Viajes.h
+#include <string>
+    using std::string;
+
 class NodoViaje
 {
     public:
-        NodoViaje(Viajes *viaje);
-        virtual ~NodoViaje();
-        NodoViaje *anterior;
-        Viajes *viaje;//valor apunta a la clase
-        NodoViaje *siguiente;
-        //vhotel = nodo_hotel;
+        //Constructores
+        NodoViaje();
+        NodoViaje(string, string, string, string, string, string, string);
 
-    protected:
 
-    private:
+        //Atributos
+        string idViaje;
+		string origen;
+		string destino;
+		string fechaSalida;
+		string fechaLegada;
+		string precio;
+		string numPlazas;
 
+		//Punteros
+        NodoViaje *primerViaje;
+		NodoViaje *sigViaje;
+		NodoViaje *antViaje;
+		//NodoViaje nodoHotel;
 };
 
-
+typedef NodoViaje *pnodoViaje;
 
 #endif // NODOVIAJE_H

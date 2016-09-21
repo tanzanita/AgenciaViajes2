@@ -58,10 +58,12 @@ class lista {
     string Ultimo();
     void BorrarFinal();
     void BorrarInicio();
-    string pasarAtributo();
-
-   private:
     pnodo primero;
     pnodo actual;
+    //string pasarAtributo();
+
+   //private:
+    //pnodo primero;
+    //pnodo actual;
 };
 #endif // LISTASTRING_H

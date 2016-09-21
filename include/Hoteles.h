@@ -10,6 +10,7 @@ class Hoteles
         Hoteles();
         virtual ~Hoteles();
 
+
     protected:
 
     private:

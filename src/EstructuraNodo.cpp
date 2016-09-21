@@ -1,4 +1,4 @@
-#include "EstructuraNodo.h"
+/*#include "EstructuraNodo.h"
 
 EstructuraNodo::EstructuraNodo()
 {
@@ -9,3 +9,5 @@ EstructuraNodo::~EstructuraNodo()
 {
     //dtor
 }
+*/
+
