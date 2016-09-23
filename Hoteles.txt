@@ -1,0 +1,9 @@
+25;12;Burj Al Arab;1;Dubai;80000;120000
+37;16;Four Seasons George V;1;New York;60000;90000
+89;25;Doubletree Resort by Hilton;2;Puntarenas;30000;50000
+13;12;Gallery Hotel Art;2;New York;40000;55000
+56;38;The Beverly Hills Hotel;1;Beverly Hills;55000;80000
+34;45;RIU Hotels & Resorts;1;Guanacaste;45000;60000
+05;64;Barceló;2;Puntarenas;20000;35000
+25;78;Radisson Hotel;2;San Jose;25000;40000
+

@@ -1,0 +1,10 @@
+01;Juan;Navarro;San Jose;123
+04;Luisa;Perez;Cartago;654
+07;Fernando;Lopez;Guanacaste;345
+23;Jesus;Monge;Cartago;430
+04;Daniela;Salazar;Tibas;895
+98;Maria;Zuñiga;Perez Zeledón;543
+23;Julio;Granados;Moravia;768
+05;Karla;Chavarria;Coronado;234
+10;Angelica;Blanco;Limon;943
+12;Thomas;Hernandez;Alajuela;532

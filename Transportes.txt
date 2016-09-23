@@ -1,0 +1,10 @@
+25;16;01;1;Nicaragua;Estados Unidos;20/Enero;15:00;21/Enero;12:00;Avianca;24;300000
+37;12;02;1;China;Dubai;06/Junio;9:00;08/Junio;16:00;Despegar;56;650000
+89;38;03;2;Francia;Estados Unidos;26/Mayo;17:00;28/Mayo;14:00;Bonystar;34;500000
+13;25;14;1;Italia;Costa Rica;30/Abril;17:00;02/Mayo;8:00;Avianca;65;700000
+56;64;15;2;España;Costa Rica;23/Agosto;15:00;25/Agosto;12:00;Bonystar;23;800000
+34;45;16;3;El Salvador;Costa Rica;05/Julio;10:00;10/Julio;12:00;Comfenalco;37;630000
+05;78;09;1;Argentina;Costa Rica;14/Noviembre;13:00;16/Noviembre;16:00;Despegar;27;350000
+16;12;14;2;Suiza;Estados Unidos;12/Diciembre;14:00;14/Diciembre;16:00;Bonystar;13;200000
+89;16;02;3;Chile;Estados Unidos;11/Setiembre;10:00;13/Setiembre;13:00;Comfenalco;48;465000
+56;45;09;3;Mexico;Costa Rica;26/Abril;21:00;28/Abril;9:00;Turismauro;60;250000

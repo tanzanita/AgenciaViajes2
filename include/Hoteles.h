@@ -7,20 +7,21 @@
 class Hoteles
 {
     public:
+        //Constructores
         Hoteles();
         virtual ~Hoteles();
 
-
-    protected:
-
-    private:
+        //Atributos
         string idViaje;
-        string idHotel;//es unico
+        string idHotel;
         string nombre;
         string categoria;
         string ciudad;
         string precioHabIndividual;
         string precioHabDoble;
+        //Punteros
+
+
 };
 
 #endif // HOTELES_H

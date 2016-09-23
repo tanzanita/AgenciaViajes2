@@ -5,6 +5,8 @@
 #include <string>
     using std::string;
 
+class NodoHotel;
+
 class NodoViaje
 {
     public:
@@ -26,7 +28,7 @@ class NodoViaje
         NodoViaje *primerViaje;
 		NodoViaje *sigViaje;
 		NodoViaje *antViaje;
-		//NodoViaje nodoHotel;
+		NodoHotel *listaHotel;//sale de nodo viaje pero apunta a nodo hotel entonves e tipo viaje
 };
 
 typedef NodoViaje *pnodoViaje;

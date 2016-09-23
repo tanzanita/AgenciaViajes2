@@ -35,12 +35,14 @@
 1474058667 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\include\hoteles.h
 	<string>
 
-1474386683 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\main.cpp
+1474574248 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\main.cpp
 	<iostream>
 	<AgenciaViajes.h>
 
-1474432626 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\include\agenciaviajes.h
+1474574248 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\include\agenciaviajes.h
 	"NodoViaje.h"
+	"NodoHotel.h"
+	"NodoTransporte.h"
 	<fstream>
 	<iostream>
 	<string>
@@ -52,22 +54,19 @@
 	<iostream>
 	"ListaString.h"
 
-1474432051 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\agenciaviajes.cpp
+1474574489 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\agenciaviajes.cpp
 	"AgenciaViajes.h"
-	<iostream>
 	<stdio.h>
-	<string>
 	<stdlib.h>
 	<string.h>
 	<fstream>
 	<sstream>
-	<windows.h>
 	<vector>
 
 1474057637 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\hoteles.cpp
 	"Hoteles.h"
 
-1474242988 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\include\hoteles.h
+1474500061 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\include\hoteles.h
 	<string>
 
 1474350641 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\listastring.cpp
@@ -78,12 +77,33 @@
 1474246111 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\viajes.cpp
 	"Viajes.h"
 
-1474390542 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\nodoviaje.cpp
+1474573150 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\nodoviaje.cpp
 	"NodoViaje.h"
 
-1474415642 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\include\nodoviaje.h
+1474573149 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\include\nodoviaje.h
 	"AgenciaViajes.h"
 	<string>
 
 1474233686 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\estructuranodo.cpp
+
+1474573149 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\include\nodohotel.h
+	"AgenciaViajes.h"
+	<string>
+
+1474573149 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\nodohotel.cpp
+	"NodoHotel.h"
+
+1474573150 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\include\nodotransporte.h
+	"AgenciaViajes.h"
+	<string>
+
+1474573150 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\nodotransporte.cpp
+	"NodoTransporte.h"
+	"AgenciaViajes.h"
+
+1474561626 source:c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\src\nodooferta.cpp
+	"NodoOferta.h"
+
+1474561597 c:\users\camila\documents\camila\tec\tec 2016\ii semestre\estructura de datos\agenciaviajes\agencia_viajes\agenciaviajes2\include\nodooferta.h
+	"AgenciaViajes.h"
 
